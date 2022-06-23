@@ -49,7 +49,7 @@ export const ResultCard = ({ movie }) => {
             disabled={watchlistDisabled}
             onClick={() => addMovieToWatchlist(movie)}
           >
-            Add to Nominations
+             Add to Nominations
           </button> 
         </div>
 
@@ -65,7 +65,7 @@ export const ResultCard = ({ movie }) => {
                   </div>
                 </Popup>
               ) : (
-                <h1>You can add upto 5 movies</h1>
+                <h3>You can add upto 5 movies</h3>
               )}
             </div>
         </div>
