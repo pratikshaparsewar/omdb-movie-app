@@ -10,6 +10,8 @@ The Project was built using REACT JS. I incorporated REACT Hooks and Context API
 
 In the project directory, you can run:
 
+### `yarn`
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
